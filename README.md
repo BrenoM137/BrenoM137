@@ -1,16 +1,64 @@
-## Hi there 👋
+## Olá! Meu nome é Breno Marques Freitas 👋
 
-<!--
-**BrenoM137/BrenoM137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Atualmente cursando Engenharia de computação! (6º Semestre)
+- 🌎 Sou de Uberaba, Minas Gerais
 
-Here are some ideas to get you started:
+  Familiarizado desde cedo com programação, tenho uma ampla experiência com TypeScript e C, e estou sempre desenvolvendo habilidades em
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
