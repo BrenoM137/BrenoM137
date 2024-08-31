@@ -4,7 +4,7 @@
 - 🌎 Sou de Uberaba, Minas Gerais
 
   Familiarizado desde cedo com programação, tenho uma ampla experiência com TypeScript e C, trabalhando também em Python e JavaScript em projetos da faculdade e cursos.
-  Estou atualmente trabalhando em um projeto a respeito de qualidade de transmissão de energia, desenvolvendo um programa em Python que pode ser acessado [aqui.](../BrenoM137/IC_HarmonicDistorsions)
+  Estou atualmente trabalhando em um projeto a respeito de qualidade de transmissão de energia, desenvolvendo um programa em Python que pode ser acessado [aqui.](.../BrenoM137/IC_HarmonicDistorsions)
 
 
 
