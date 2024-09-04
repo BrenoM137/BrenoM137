@@ -9,7 +9,7 @@ Desde cedo, desenvolvi uma paixão por programação e tecnologia. Ao longo da m
 
 Tenho ampla experiência com **TypeScript** e **C**, e também trabalhei com **Python** e **JavaScript** em projetos acadêmicos e cursos. No momento, estou desenvolvendo um projeto em Python que visa analisar e melhorar a qualidade de transmissão de energia. Este projeto está disponível em [meus repositórios](https://github.com/BrenoM137/IC_HarmonicDistorsions) e reflete meu interesse em aplicar conhecimentos técnicos a problemas reais.
 
-Além disso, tenho experiência com **Java** e **SQL**, usados em vários projetos acadêmicos e estudos pessoais. Sempre buscao aprender mais expandir minhas habilidades!
+Além disso, tenho experiência com **Java** e **SQL**, usados em vários projetos acadêmicos e estudos pessoais. Sempre buscando aprender mais e expandir minhas habilidades!
 
 ## Contato
 
