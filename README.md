@@ -14,7 +14,7 @@ Além disso, tenho experiência com **Java** e **SQL**, usados em vários projet
 ## Contato
 
 - 📧 **Email**: brenomarques137@gmail.com
-- 🔗 **LinkedIn**: [https://www.linkedin.com/in/breno-marques-freitas-393a34240/](https://www.linkedin.com/in/breno-marques-freitas-393a34240/) (substitua pelo link real)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/breno-marques-freitas-393a34240/](https://www.linkedin.com/in/breno-marques-freitas-393a34240/)
 
 Sinta-se à vontade para me contatar para colaborações, oportunidades de estágio ou para trocar ideias sobre tecnologia e programação!
 
