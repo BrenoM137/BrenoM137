@@ -1,65 +1,28 @@
-## Olá! Meu nome é Breno Marques Freitas 👋
+# Olá! Meu nome é Breno Marques Freitas 👋
 
-- 📖 Atualmente cursando Engenharia de computação! (6º Semestre)
-- 🌎 Sou de Uberaba, Minas Gerais
+## Sobre Mim
 
-  Familiarizado desde cedo com programação, tenho uma ampla experiência com TypeScript e C, trabalhando também em Python e JavaScript em projetos da faculdade e cursos.
-  Estou atualmente trabalhando em um projeto a respeito de qualidade de transmissão de energia, desenvolvendo um programa em Python que pode ser acessado [aqui.](IC_HarmonicDistorsions)
+- 📖 **Atualmente cursando Engenharia de Computação** (6º Semestre)
+- 🌎 **Sou de Uberaba, Minas Gerais**
 
+Desde cedo, desenvolvi uma paixão por programação e tecnologia. Ao longo da minha jornada acadêmica e profissional, adquiri experiência com diversas linguagens e ferramentas, o que me proporcionou uma sólida base para enfrentar novos desafios.
 
+Tenho ampla experiência com **TypeScript** e **C**, e também trabalhei com **Python** e **JavaScript** em projetos acadêmicos e cursos. No momento, estou desenvolvendo um projeto em Python que visa analisar e melhorar a qualidade de transmissão de energia. Este projeto está disponível em [meus repositórios](https://github.com/BrenoM137/IC_HarmonicDistorsions) e reflete meu interesse em aplicar conhecimentos técnicos a problemas reais.
 
+Além disso, tenho experiência com **Java** e **SQL**, usados em vários projetos acadêmicos e estudos pessoais. Sempre buscao aprender mais expandir minhas habilidades!
 
+## Contato
 
+- 📧 **Email**: brenomarques137@gmail.com
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/breno-marques-freitas-393a34240/](https://www.linkedin.com/in/breno-marques-freitas-393a34240/) (substitua pelo link real)
 
+Sinta-se à vontade para me contatar para colaborações, oportunidades de estágio ou para trocar ideias sobre tecnologia e programação!
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Competências
+<p align="justify">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,html,css,js,java,c,py,postgres" />
+  </a>
+</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
